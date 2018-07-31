@@ -1,0 +1,5 @@
+<library path="lib/librtcm_inject">
+	<class name="rtcm_inject" type="mavros::extra_plugins::RTCMInjectPlugin" base_class_type="mavros::plugin::PluginBase">
+		<description>Send RTCM3 message to FCU.</description>
+	</class>
+</library>
