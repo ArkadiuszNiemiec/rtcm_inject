@@ -1,7 +1,7 @@
 ### Description
 An RTCM3 inject mavros plugin that reads RTCM3 stream from ros topic and forwards it to PX4 firmware.
 
-Currently to RTCM3 stream topic is set to `/rtk_000001/rtcm_stream`
+Currently the RTCM3 stream topic is set to `/rtk_000001/rtcm_stream`
 
 
 
